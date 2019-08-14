@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ATmega64_Timer0_FastPWM", "ATmega64_Timer0_FastPWM\ATmega64_Timer0_FastPWM.cproj", "{FA38F5C2-C5C7-4ECB-A23A-892E476E5873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA38F5C2-C5C7-4ECB-A23A-892E476E5873}.Debug|AVR.ActiveCfg = Debug|AVR
+		{FA38F5C2-C5C7-4ECB-A23A-892E476E5873}.Debug|AVR.Build.0 = Debug|AVR
+		{FA38F5C2-C5C7-4ECB-A23A-892E476E5873}.Release|AVR.ActiveCfg = Release|AVR
+		{FA38F5C2-C5C7-4ECB-A23A-892E476E5873}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
